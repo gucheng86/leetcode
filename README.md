@@ -2,8 +2,7 @@
 leetcode record
 
 ## 1.善用github  
-  不少人都会一边做Leetcode的题目一边在Github上repo，这样不仅对自己的解题思路有所记录，还能方便查找。不少刷Leetcode的高手，  
-  他们的答案也是写在自己的Github上，你也可以通过Github成功找到他们。
+    不少人都会一边做Leetcode的题目一边在Github上repo，这样不仅对自己的解题思路有所记录，还能方便查找。不少刷Leetcode的高手，他们的答案也是写在自己的Github上，你也可以通过Github成功找到他们。
   
 ## 2.善用讨论区
   同一道题的解法往往不止一种，甚至思路和方式都会完全不同，例如这位同学所说：“边刷边感叹天外有天，比如有道很简单的一个int array  
